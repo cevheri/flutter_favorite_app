@@ -39,8 +39,8 @@ jobs:
             #   run: flutter build ios --release --no-codesign
             - name: Build Web
               run: flutter build web --release
-            - name: Build macOS
-              run: flutter build macos --release
+#            - name: Build macOS
+#              run: flutter build macos --release
             - name: Build Windows
               run: flutter build windows --release
             - name: Build Linux
