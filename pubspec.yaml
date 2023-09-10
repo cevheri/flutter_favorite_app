@@ -12,6 +12,7 @@ dependencies:
   cupertino_icons:
   english_words:
   provider:
+  firebase_core: ^2.15.1
 
 dev_dependencies:
   flutter_test:
