@@ -1,6 +1,6 @@
 # flutter_favorite_app
 
-A new Flutter project.
+Flutter Favorite App (Mobile, Web, Windows, Linux, MacOS)
 
 ## Getting Started
 
