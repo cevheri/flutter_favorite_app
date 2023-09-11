@@ -37,6 +37,7 @@ class GeneratorPage extends StatelessWidget {
               ),
               SizedBox(width: 10.0),
               ElevatedButton(
+                key: const Key('nextButton'),
                 onPressed: () {
                   appState.getNext();
                 },

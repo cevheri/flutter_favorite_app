@@ -55,6 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
       children: [
         SafeArea(
           child: NavigationRail(
+            key: const Key('navRail'),
             selectedIndex: selectedIndex,
             extended: constraints.maxWidth > 600,
             destinations: [
